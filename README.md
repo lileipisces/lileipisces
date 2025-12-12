@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love exploring all kinds of new and interesting things.
 -->
 
-[![Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=lileipisces)](https://github.com/lileipisces/github-readme-stats)
+[![Lei's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lileipisces&show_icons=true)](https://github.com/lileipisces/github-readme-stats)
